@@ -6,4 +6,10 @@ permalink: /about
 
 # Portfolio Jekyll Theme
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, I’m Cagla. I’m based in London and currently work in tech operations and finance while building my skills in data science and AI.
+
+My background combines financial analysis, operations, data analytics, and product-style problem solving. Recently, I have been working on projects involving machine learning, optimisation, and data visualisation.
+
+My goal is to move further into technical data science roles where I can use Python, SQL, and analytical thinking to solve real business problems.
+
+Outside of work, I’m interested in music, DJing, creativity, and using data to tell clearer stories.
