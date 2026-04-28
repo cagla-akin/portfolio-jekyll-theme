@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Hello World
 
 Hi, I’m Cagla. I’m based in London and currently work in tech operations and finance while building my skills in data science and AI.
 
